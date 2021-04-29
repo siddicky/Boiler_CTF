@@ -1,6 +1,10 @@
 # Boiler_CTF
 TryHackMe Boiler CTF Writeup
 
+Link to the room https://tryhackme.com/room/boilerctf2
+
+## Lets go
+
 export IP=10.10.2.93
 
 ## Enumeration
@@ -180,7 +184,7 @@ LOG=/home/stoner/bck.log
 DATE=`date +%y\.%m\.%d\.`
 
 USER=stoner
-#superduperp@$$no1knows
+#*****************
 
 ssh $USER@$REMOTE mkdir $TARGET/$DATE
 
@@ -210,7 +214,7 @@ fi
 ```
 
 ## Switching user
-stoner:superduperp@$$no1knows
+stoner:*****************
 
 ```
 su stoner
