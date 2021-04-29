@@ -161,7 +161,7 @@ Aug 20 11:16:36 parrot sshd[2466]: Disconnected from user pentest 10.10.170.50 p
 Aug 20 11:16:36 parrot sshd[2451]: pam_unix(sshd:session): session closed for user pentest
 Aug 20 12:24:38 parrot sshd[2443]: Received signal 15; terminating.
 ```
-SSH into the machine using basterd:superduperp@$$
+SSH into the machine using basterd:**********
 
 ```
 ssh basterd@$IP -p 55007
